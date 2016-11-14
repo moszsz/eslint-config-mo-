@@ -1,0 +1,23 @@
+{
+  "name": "esling-config-mossss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moszsz/eslint-config-mossss.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "moßß OG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moszsz/eslint-config-mossss/issues"
+  },
+  "homepage": "https://github.com/moszsz/eslint-config-mossss#readme"
+}
